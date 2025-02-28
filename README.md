@@ -1,2 +1,2 @@
 # Space-Invader-Game
-Space Invader Game using graphics 
+This C++ Space Invaders game uses graphics and console handling to create an interactive shooting game where the player controls a spaceship, moves left/right, and shoots aliens. The game includes enemy movement, collision detection, score tracking, saving/loading game progress, and a high score system. It also features pause, resume, and quit functionalities, with a structured logic for enemy waves, bullet mechanics, and victory/defeat conditions.
